@@ -21,7 +21,7 @@ body {
 
 .country-card,
 .country-list {
-  max-width: 420px;
+  max-width: 40%;
   color: #4b4017;
   border-radius: 10px;
   background-color: #f2e7b6;
